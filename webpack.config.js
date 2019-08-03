@@ -11,7 +11,7 @@ module.exports = {
         vendor: ['phaser']
     },
     output: {
-        path: path.resolve(__dirname, 'build'),
+        path: path.resolve(__dirname, 'dist'),
         filename: '[name].[chunkhash].js'
     },
     module: {
@@ -28,11 +28,11 @@ module.exports = {
     plugins: [
         new CleanWebpackPlugin(),
         new HtmlWebpackPlugin({
-            path: path.resolve(__dirname, 'build', 'index.html'),
+            path: path.resolve(__dirname, 'dist', 'index.html'),
             template: 'index.html'
         }),
         new CopyWebpackPlugin([
-            {from:path.resolve(__dirname,'assets'), to:path.resolve(__dirname, 'build', 'assets')}
+            {from:path.resolve(__dirname,'assets'), to:path.resolve(__dirname, 'dist', 'assets')}
         ])
     ]
 }
