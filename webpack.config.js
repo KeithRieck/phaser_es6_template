@@ -29,7 +29,7 @@ module.exports = {
         new CleanWebpackPlugin(),
         new HtmlWebpackPlugin({
             path: path.resolve(__dirname, 'dist', 'index.html'),
-            template: 'index.html'
+            template: path.resolve(__dirname, 'src', 'index.html')
         }),
         new CopyWebpackPlugin([
             {from:path.resolve(__dirname,'assets'), to:path.resolve(__dirname, 'dist', 'assets')}

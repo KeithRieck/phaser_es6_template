@@ -25,3 +25,7 @@ The minimized production build is created with:
 ```
 npm run build
 ```
+
+### Sample
+
+The sample page is hosted at: https://keithrieck.github.io/phaser_es6_template/dist/index.html
