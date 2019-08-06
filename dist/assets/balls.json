@@ -1,0 +1,156 @@
+{"frames": {
+"ball0.gif":
+{
+    "frame": {"x":2,"y":2,"w":16,"h":16},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+    "sourceSize": {"w":16,"h":16},
+    "pivot": {"x":0.5,"y":0.5}
+},
+"ball1.gif":
+{
+    "frame": {"x":20,"y":2,"w":16,"h":16},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+    "sourceSize": {"w":16,"h":16},
+    "pivot": {"x":0.5,"y":0.5}
+},
+"ball2.gif":
+{
+    "frame": {"x":38,"y":20,"w":16,"h":16},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+    "sourceSize": {"w":16,"h":16},
+    "pivot": {"x":0.5,"y":0.5}
+},
+"ball3.gif":
+{
+    "frame": {"x":56,"y":20,"w":16,"h":16},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+    "sourceSize": {"w":16,"h":16},
+    "pivot": {"x":0.5,"y":0.5}
+},
+"ball4.gif":
+{
+    "frame": {"x":74,"y":20,"w":16,"h":16},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+    "sourceSize": {"w":16,"h":16},
+    "pivot": {"x":0.5,"y":0.5}
+},
+"ball5.gif":
+{
+    "frame": {"x":92,"y":20,"w":16,"h":16},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+    "sourceSize": {"w":16,"h":16},
+    "pivot": {"x":0.5,"y":0.5}
+},
+"ball6.gif":
+{
+    "frame": {"x":2,"y":38,"w":16,"h":16},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+    "sourceSize": {"w":16,"h":16},
+    "pivot": {"x":0.5,"y":0.5}
+},
+"ball7.gif":
+{
+    "frame": {"x":20,"y":38,"w":16,"h":16},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+    "sourceSize": {"w":16,"h":16},
+    "pivot": {"x":0.5,"y":0.5}
+},
+"ball8.gif":
+{
+    "frame": {"x":38,"y":38,"w":16,"h":16},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+    "sourceSize": {"w":16,"h":16},
+    "pivot": {"x":0.5,"y":0.5}
+},
+"ball9.gif":
+{
+    "frame": {"x":56,"y":38,"w":16,"h":16},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+    "sourceSize": {"w":16,"h":16},
+    "pivot": {"x":0.5,"y":0.5}
+},
+"ball10.gif":
+{
+    "frame": {"x":38,"y":2,"w":16,"h":16},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+    "sourceSize": {"w":16,"h":16},
+    "pivot": {"x":0.5,"y":0.5}
+},
+"ball11.gif":
+{
+    "frame": {"x":56,"y":2,"w":16,"h":16},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+    "sourceSize": {"w":16,"h":16},
+    "pivot": {"x":0.5,"y":0.5}
+},
+"ball12.gif":
+{
+    "frame": {"x":74,"y":2,"w":16,"h":16},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+    "sourceSize": {"w":16,"h":16},
+    "pivot": {"x":0.5,"y":0.5}
+},
+"ball13.gif":
+{
+    "frame": {"x":92,"y":2,"w":16,"h":16},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+    "sourceSize": {"w":16,"h":16},
+    "pivot": {"x":0.5,"y":0.5}
+},
+"ball14.gif":
+{
+    "frame": {"x":2,"y":20,"w":16,"h":16},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+    "sourceSize": {"w":16,"h":16},
+    "pivot": {"x":0.5,"y":0.5}
+},
+"ball15.gif":
+{
+    "frame": {"x":20,"y":20,"w":16,"h":16},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+    "sourceSize": {"w":16,"h":16},
+    "pivot": {"x":0.5,"y":0.5}
+}
+},
+"meta": {
+    "app": "http://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "assets/balls.png",
+    "format": "RGBA8888",
+    "size": {"w":110,"h":56},
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:b28fd22e142d0c6ad7cc04b16dda2117:9bd2bb289bc9a5f020001bf9dbada632:af019c9df43c0315bbf2d16d758faea9$"
+}
+}
